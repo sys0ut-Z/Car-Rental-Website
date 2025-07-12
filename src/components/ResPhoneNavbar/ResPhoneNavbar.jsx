@@ -29,11 +29,6 @@ const ResPhoneNavbar = ({showMenu, toggleMenu}) => {
           </ul>
         </nav>
       </div>
-
-      {/* Navbar Footer */}
-      <div>
-        <h1 className='text-lg'>Made by Dilshad, The Coding Journey</h1>
-      </div>
     </div>
   )
 }
